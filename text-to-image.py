@@ -22,13 +22,13 @@ def generate_image(prompt):
 # Set up Streamlit app
 st.title("Welcome to Imagination Visualizer.")
 
-" Unleash your imagination and bring it to life with our cutting-edge image generation application!"
-"Simply enter your thoughts into the text box, and let our software create stunning visualizations that bring your ideas to life. "
+"Unleash your imagination and bring it to life with our cutting-edge image generation application!"
+"Simply enter your thoughts into the text box, and let our software create stunning visualizations that bring your ideas to life."
 "From dreamy landscapes to fantastical creatures, the possibilities are endless. So why wait? Start generating your own unique and captivating images today!."
 
 
 # Get user input
-text_input = st.text_input("Enter text:")
+text_input = st.text_input("Describe imagination:")
 
 # Generate image when user clicks button
 if st.button("Generate Image"):
