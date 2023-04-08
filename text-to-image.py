@@ -33,3 +33,6 @@ text_input = st.text_input("Describe imagination:")
 # Generate image when user clicks button
 if st.button("Generate Image"):
     generate_image(text_input)
+    
+    
+ "Created by: Jeno D. Bellido | BSCS 3A - AI"
