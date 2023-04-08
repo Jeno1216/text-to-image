@@ -35,4 +35,4 @@ if st.button("Generate Image"):
     generate_image(text_input)
     
     
- "Created by: Jeno D. Bellido | BSCS 3A - AI"
+"Created by: Jeno D. Bellido | BSCS 3A - AI"
